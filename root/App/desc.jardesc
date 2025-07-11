@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="D:/HAW/SE/lab 5/lab5prototype.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Robo App Vertical Prototype/desc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="true" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Robo App Vertical Prototype/src&lt;{Main.java[Main" manifestLocation="/Robo App Vertical Prototype/export" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="true">
+        <file path="/Robo App Vertical Prototype/.classpath"/>
+        <javaElement handleIdentifier="=Robo App Vertical Prototype/src"/>
+        <folder path="/Robo App Vertical Prototype/gson-2.8.7"/>
+        <file path="/Robo App Vertical Prototype/.project"/>
+    </selectedElements>
+</jardesc>
